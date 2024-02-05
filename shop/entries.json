@@ -1,11 +1,11 @@
 {
     "ShopInfo": {
         "Featured_Item": {
-            "ITEM_ID": "DONUT"
+            "ITEM_ID": "Donut"
         },
         "Items": [
-            "LOLLIPOP",
-            "FRYING_PAN"
+            "Lollipop",
+            "Frying Pan"
         ]
     }
 }
