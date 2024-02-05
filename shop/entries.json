@@ -1,0 +1,11 @@
+{
+    "ShopInfo": {
+        "Featured_Item": {
+            "ITEM_ID": "DONUT"
+        },
+        "Items": [
+            "LOLLIPOP",
+            "FRYING_PAN"
+        ]
+    }
+}
