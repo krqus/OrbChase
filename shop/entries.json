@@ -4,7 +4,7 @@
             "ITEM_ID": "Lollipop",
             "ITEM_TYPE": "Gear"
         },
-        "Items": [
+        "Items": {
             "Donut": {
                 "ITEM_ID": "Donut",
                 "ITEM_TYPE": "Gear"
@@ -17,6 +17,6 @@
                 "ITEM_ID": "Brownie",
                 "ITEM_TYPE": "Gear"
             }
-        ]
+        }
     }
 }
