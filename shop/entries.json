@@ -1,12 +1,22 @@
 {
     "ShopInfo": {
         "Featured_Item": {
-            "ITEM_ID": "Lollipop"
+            "ITEM_ID": "Lollipop",
+            "ITEM_TYPE": "Gear"
         },
         "Items": [
-            "Donut",
-            "Frying Pan",
-            "Brownie"
+            "Donut": {
+                "ITEM_ID": "Donut",
+                "ITEM_TYPE": "Gear"
+            },
+            "Frying Pan": {
+                "ITEM_ID": "Frying Pan",
+                "ITEM_TYPE": "Gear"
+            },
+            "Brownie": {
+                "ITEM_ID": "Brownie",
+                "ITEM_TYPE": "Gear"
+            }
         ]
     }
 }
