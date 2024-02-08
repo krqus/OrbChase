@@ -1,8 +1,8 @@
 {
     "ShopInfo": {
         "Featured_Item": {
-            "ITEM_ID": "Frying Pan",
-            "ITEM_TYPE": "Gear"
+            "ITEM_ID": "CherryBlossom",
+            "ITEM_TYPE": "Orb"
         },
         "Items": {
             "Donut": {
@@ -13,9 +13,9 @@
                 "ITEM_ID": "Brownie",
                 "ITEM_TYPE": "Gear"
             },
-            "CherryBlossom": {
-                "ITEM_ID": "CherryBlossom",
-                "ITEM_TYPE": "Orb"
+            "Lollipop": {
+                "ITEM_ID": "Lollipop",
+                "ITEM_TYPE": "Gear"
             }
         }
     }
