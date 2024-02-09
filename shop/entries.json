@@ -2,20 +2,24 @@
     "ShopInfo": {
         "Featured_Item": {
             "ITEM_ID": "CherryBlossom",
-            "ITEM_TYPE": "Orb"
+            "ITEM_TYPE": "Orb",
+            "ITEM_PRICE": "12500"
         },
         "Items": {
             "Donut": {
                 "ITEM_ID": "Donut",
-                "ITEM_TYPE": "Gear"
+                "ITEM_TYPE": "Gear",
+                "ITEM_PRICE": "30000"
             },
             "Brownie": {
                 "ITEM_ID": "Brownie",
-                "ITEM_TYPE": "Gear"
+                "ITEM_TYPE": "Gear",
+                "ITEM_PRICE": "75000"
             },
             "Lollipop": {
                 "ITEM_ID": "Lollipop",
-                "ITEM_TYPE": "Gear"
+                "ITEM_TYPE": "Gear",
+                "ITEM_PRICE": "125000"
             }
         }
     }
